@@ -1,1 +1,1 @@
-# anytag (Tag Anything, Anywhere)
+# anytag (Place Tags on Anything, Anywhere)
