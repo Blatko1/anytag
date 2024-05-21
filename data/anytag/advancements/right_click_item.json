@@ -1,0 +1,19 @@
+{
+    "criteria": {
+      "right_click_anytag": {
+        "trigger": "minecraft:item_used_on_block",
+        "conditions": {
+          "item": {
+            "items": "minecraft:firework_rocket",
+            "predicates": {
+              "minecraft:custom_data": {"anytag":{}}
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "anytag:new/on_right_click"
+    }
+  }
+  
