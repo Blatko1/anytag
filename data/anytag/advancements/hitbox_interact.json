@@ -1,17 +1,17 @@
 {
     "criteria": {
       "requirement": {
-        "trigger": "minecraft:player_hurt_entity",
+        "trigger": "minecraft:player_interacted_with_entity",
         "conditions": {
           "entity": {
-            "type": "minecraft:chicken",
+            "type": "minecraft:interaction",
             "nbt": "{Tags:[\"anytag.hitbox\"]}"
           }
         }
       }
     },
     "rewards": {
-      "function": "anytag:remove/on_hitbox_hit"
+      "function": "anytag:remove/on_hitbox_interact"
     }
   }
   

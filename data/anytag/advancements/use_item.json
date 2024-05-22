@@ -13,7 +13,7 @@
       }
     },
     "rewards": {
-      "function": "anytag:new/on_right_click"
+      "function": "anytag:new/on_item_use"
     }
   }
   
