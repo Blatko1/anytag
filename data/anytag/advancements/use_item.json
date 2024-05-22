@@ -1,6 +1,6 @@
 {
     "criteria": {
-      "right_click_anytag": {
+      "use_anytag_item": {
         "trigger": "minecraft:item_used_on_block",
         "conditions": {
           "item": {
