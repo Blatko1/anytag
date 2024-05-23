@@ -14,13 +14,15 @@ You can rename the *Anytag* item according to your desires.
 
 Here is a short depiction of how the *Anytag* item is crafted and used:
 
-![Anytag in action](assets/crafting_higher_res.gif "Using the Anytag item")
+![Anytag in action](assets/usage_high_res.gif "Using the Anytag item")
 
 **Right-clicking** the *Anytag* item on any block will place flying text with the custom name of *Anytag* item. 
 
 **Right-clicking** in the middle of flying text will remove the text and drop the previously used *Anytag* item.
 
 **Left-clicking** in the middle of flying text will remove the text and drop the *name tag* item instead of the *Anytag* item.
+
+![Difference between clicks](assets/clicking_usage_high_res.gif "Using the Anytag item")
 
 ## TODO 
 
