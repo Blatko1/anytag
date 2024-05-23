@@ -1,7 +1,7 @@
 {
   "criteria": {
-    "right_click_hitbox": {
-      "trigger": "minecraft:player_interacted_with_entity",
+    "left_click_hitbox": {
+      "trigger": "minecraft:player_hurt_entity",
       "conditions": {
         "entity": {
           "type": "minecraft:interaction",
@@ -11,6 +11,6 @@
     }
   },
   "rewards": {
-    "function": "anytag:remove/on_interact/on_hitbox_interact"
+    "function": "anytag:remove/on_hit/on_hitbox_hit"
   }
 }

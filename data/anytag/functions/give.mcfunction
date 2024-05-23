@@ -1,1 +1,1 @@
-give @s firework_rocket[custom_name='{"text":"AnyTag"}',item_name='{"text":"AnyTag"}',lore=['{"text":"Tag Anything, Anywhere"}'],custom_data={anytag:{}},hide_additional_tooltip={},custom_model_data=9380001] 1
+give @s firework_rocket[custom_name='{"text":"Anytag"}',item_name='{"text":""}',lore=['{"text":"Tag Anything, Anywhere"}'],custom_data={anytag:{}},hide_additional_tooltip={},custom_model_data=9380001] 1
