@@ -1,14 +1,14 @@
-# Anytag Datapack (Tag Anything, Anywhere)
+# *Anytag* Datapack (Tag Anything, Anywhere)
 
-Have you ever wanted to place **name tags** on anything? Now you can! `Anytag` is a Minecraft Datapack which allows players to craft a special *Anytag* item through a simple recipe, which is used in a way that any player can right-click on any block with the *Anytag* item in their hand which will then place flying text where the player was pointing at.
+Have you ever wanted to place **name tags** on anything? Now you can! `Anytag` is a Minecraft Datapack which allows players to craft a special *Anytag* item through a simple recipe. The item is used so any player can right-click on any block with the item in their hand, which will then place flying text where the player is pointing at and simultaneously consume itself. 
 
 ## Crafting
 
-The recipe for crafting the *Anytag* item is simple. You just need a name tag and a sign of any kind (Dark oak sign, Oak sign, Spruce sign, ...) and place them in this order:
+The recipe for crafting the *Anytag* item is simple. You just need a name tag and a sign of any kind (Dark oak sign, Oak sign, Spruce sign, etc.) and place them in this order:
 
 ![Crafting recipe](assets/crafting.png "Crafting the Anytag item")
 
-You can rename the *Anytag* item according to your own desires.
+You can rename the *Anytag* item according to your desires.
 
 ## Usage
 
