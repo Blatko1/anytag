@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "right_click_hitbox": {
+      "trigger": "minecraft:player_interacted_with_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:interaction",
+          "nbt": "{Tags:[\"anytag.hitbox\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "anytag:remove/on_interact/on_hitbox_interact"
+  }
+}

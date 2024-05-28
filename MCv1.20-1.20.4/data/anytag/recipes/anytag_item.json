@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "S"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:name_tag"
+    },
+    "S": [
+      {"item": "minecraft:acacia_sign"},
+      {"item": "minecraft:bamboo_sign"},
+      {"item": "minecraft:birch_sign"},
+      {"item": "minecraft:cherry_sign"},
+      {"item": "minecraft:crimson_sign"},
+      {"item": "minecraft:dark_oak_sign"},
+      {"item": "minecraft:jungle_sign"},
+      {"item": "minecraft:mangrove_sign"},
+      {"item": "minecraft:oak_sign"},
+      {"item": "minecraft:spruce_sign"},
+      {"item": "minecraft:warped_sign"}
+    ]
+  },
+  "result": {
+    "item": "minecraft:knowledge_book",
+    "count": 1
+  }
+}
