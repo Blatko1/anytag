@@ -3,7 +3,7 @@
     "pack_format": 32,
     "supported_formats": {
       "max_inclusive": 32,
-      "min_inclusive": 15
+      "min_inclusive": 13
     },
     "description": "Textures for the Anytag Datapack"
   }

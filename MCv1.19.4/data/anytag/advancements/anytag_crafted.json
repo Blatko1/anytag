@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "anytag_crafted": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "anytag:anytag_item"
+        }
+      }
+    },
+    "rewards": {
+      "function": "anytag:anytag_crafted"
+    }
+  }
+  
