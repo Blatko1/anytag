@@ -24,6 +24,8 @@ Here is a short depiction of how the *Anytag* item is crafted and used:
 
 ![Difference between clicks](assets/clicking_usage_high_res.gif "Using the Anytag item")
 
+> Try pressing `F3 + B` in-game to see the hitbox of the floating text.
+
 ## TODO 
 
 - FIX maybe: when the *Anytag* item is being shot out from a dispenser
