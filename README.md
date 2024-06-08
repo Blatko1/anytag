@@ -6,7 +6,7 @@ Have you ever wanted to place **name tags** on anything? Now you can! `Anytag` i
 
 The recipe for crafting the *Anytag* item is simple. You just need a name tag and a sign of any kind (Dark oak sign, Oak sign, Spruce sign, etc.) and place them in this order:
 
-![Crafting recipe](assets/crafting.png "Crafting the Anytag item")
+![Crafting recipe](assets/crafting.png)
 
 You can rename the *Anytag* item according to your desires.
 
@@ -14,7 +14,7 @@ You can rename the *Anytag* item according to your desires.
 
 Here is a short depiction of how the *Anytag* item is crafted and used:
 
-![Anytag in action](assets/usage_high_res.gif "Using the Anytag item")
+![Anytag in action](assets/usage_high_res.gif)
 
 **Right-clicking** the *Anytag* item on any block will place flying text with the custom name of *Anytag* item. 
 
@@ -22,9 +22,11 @@ Here is a short depiction of how the *Anytag* item is crafted and used:
 
 **Left-clicking** in the middle of flying text will remove the text and drop the *name tag* item instead of the *Anytag* item.
 
-![Difference between clicks](assets/clicking_usage_high_res.gif "Using the Anytag item")
+![Difference between clicks](assets/clicking_usage_high_res.gif)
 
 > Try pressing `F3 + B` in-game to see the hitbox of the floating text.
+
+![Anytag hitbox](assets/pressing_F3_B_high_res.gif)
 
 ## TODO 
 
