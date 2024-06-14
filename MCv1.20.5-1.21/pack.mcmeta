@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "supported_formats": {
+      "max_inclusive": 48,
+      "min_inclusive": 41
+    },
+    "description": "anytag Datapack"
+  }
+}
