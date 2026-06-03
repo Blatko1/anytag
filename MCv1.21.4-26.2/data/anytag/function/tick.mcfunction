@@ -1,0 +1,1 @@
+execute as @e[tag=!anytag.dispenser_check,type=firework_rocket] at @s run function anytag:new/dispenser

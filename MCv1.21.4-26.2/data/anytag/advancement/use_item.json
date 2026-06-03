@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "use_anytag_item": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "item": {
+          "items": "minecraft:firework_rocket",
+          "predicates": {
+            "minecraft:custom_data": {
+              "anytag": {}
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "anytag:new/on_item_use"
+  }
+}

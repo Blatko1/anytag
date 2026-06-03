@@ -1,0 +1,16 @@
+{
+  "criteria": {
+    "left_click_hitbox": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:interaction",
+          "nbt": "{Tags:[\"anytag.hitbox\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "anytag:remove/on_hit/on_hitbox_hit"
+  }
+}

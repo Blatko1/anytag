@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "S"
+  ],
+  "key": {
+    "#": [
+      "minecraft:name_tag"
+    ],
+    "S": [
+      "minecraft:acacia_sign",
+      "minecraft:bamboo_sign",
+      "minecraft:birch_sign",
+      "minecraft:cherry_sign",
+      "minecraft:crimson_sign",
+      "minecraft:dark_oak_sign",
+      "minecraft:jungle_sign",
+      "minecraft:mangrove_sign",
+      "minecraft:oak_sign",
+      "minecraft:spruce_sign",
+      "minecraft:warped_sign"
+    ]
+  },
+  "result": {
+    "id": "minecraft:firework_rocket",
+    "components": {
+      "minecraft:item_model": "anytag:anytag_item",
+      "minecraft:custom_name": "{\"text\":\"Anytag\"}",
+      "minecraft:item_name": "{\"text\":\"\"}",
+      "minecraft:lore": [
+        "{\"text\":\"Tag Anything, Anywhere\"}"
+      ],
+      "minecraft:custom_data": {
+        "anytag": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,3 @@
+execute unless data entity @s item.components."minecraft:custom_data".anytag run return run tag @s add anytag.dispenser_check
+summon item ~ ~ ~ {Tags:["anytag.dispenser_check"],Item:{id:"minecraft:firework_rocket",count:1,components:{"minecraft:custom_name":{"text":""},"minecraft:item_name":{"text":""},"minecraft:lore":[{"text":"Tag Anything, Anywhere"}],"minecraft:item_model":"anytag:anytag_item","minecraft:custom_data":{anytag:{}}}}}
+kill @s

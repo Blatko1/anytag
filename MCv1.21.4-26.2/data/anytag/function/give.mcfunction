@@ -1,0 +1,1 @@
+give @s firework_rocket[custom_name={"text":"Anytag"},item_name={"text":""},lore=[{"text":"Tag Anything, Anywhere"}],custom_data={anytag:{}},item_model="anytag:anytag_item"] 1
